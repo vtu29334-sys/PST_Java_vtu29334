@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-class Student {
+class student{
     private int id;
     private String name;
     private double cgpa;
